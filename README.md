@@ -1,2 +1,2 @@
-# Fnd-Progra-lvl1
+# Fnd-Progra-MBI
 Ejercicios fundamentos de la programación MBI
